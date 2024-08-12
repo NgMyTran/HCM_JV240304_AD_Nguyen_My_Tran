@@ -63,7 +63,7 @@ public class MenuUser {
         }
     }
     public void addToCart(){
-        System.out.println("Nhập id của sp cần mua");
+        System.out.println("Nhập id của sản phẩm cần mua");
         String idPro = InputMethods.getString();
         Product p = productController.findById(idPro);
         if(p==null){
@@ -82,7 +82,7 @@ public class MenuUser {
             if (quantity <= p.getStock()){
                 break;
             }
-            System.err.println("số lượng trong kho chỉ còn "+p.getStock()+", vui lòng giảm só lương");
+            System.err.println("Số lượng trong kho chỉ còn "+p.getStock()+", vui lòng giảm só lương");
         }
         CartItem cartItem = cartController.findByProductId(idPro);
         if(cartItem==null){
@@ -107,7 +107,7 @@ public class MenuUser {
         System.out.println("Total : " +total);
     }
     public  void changeQuantity(){
-        System.out.println("Nhập vào itemId muoons thay đổi số lượng");
+        System.out.println("Nhập vào itemId muốn thay đổi số lượng");
         int cartItemId = InputMethods.getInteger();
         CartItem cartItem = cartController.findById(cartItemId);
         if (cartItem==null){
@@ -136,7 +136,7 @@ public class MenuUser {
     }
 
     public  void delete(){
-        System.out.println("Nhập vào itemId muoons thay đổi số lượng");
+        System.out.println("Nhập vào itemId muốn thay đổi số lượng");
         int cartItemId = InputMethods.getInteger();
         CartItem cartItem = cartController.findById(cartItemId);
         if(cartItem ==null){

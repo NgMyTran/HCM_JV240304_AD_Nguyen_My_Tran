@@ -1,18 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="523835fc-905f-4e10-87c7-81cc38831123" name="Changes" comment="" />
+    <list default="true" id="523835fc-905f-4e10-87c7-81cc38831123" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ra/controller/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ra/controller/CartController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ra/controller/CatalogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ra/controller/CatalogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ra/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ra/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ra/model/CartItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ra/model/CartItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ra/model/Catalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ra/model/Catalog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ra/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ra/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ra/run/BookManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ra/run/BookManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ra/run/CatalogManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ra/run/CatalogManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ra/run/MenuUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ra/run/MenuUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ra/run/ProductManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ra/run/ProductManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ra/service/CartService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ra/service/CartService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ra/service/CatalogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ra/service/CatalogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ra/service/IService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ra/service/IService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ra/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ra/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ra/util/InputMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ra/util/InputMethods.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "NgMyTran"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NgMyTran/HCM_JV240304_AD_Nguyen_My_Tran.git",
+    "accountId": "fe54fcae-e653-435b-a501-830912eed06e"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2kY3b28Dv8DUqOl6xDLUcPl283a" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,11 +62,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BookManagement.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/TRAN/INTELLIJ/Exam_Advance_2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/TRAN/INTELLIJ/HCM_JV240304_AD_Nguyen_My_Tran/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -45,7 +93,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723446752540</updated>
-      <workItem from="1723446753610" duration="1000" />
+      <workItem from="1723446753610" duration="11478000" />
+      <workItem from="1723461469248" duration="1200000" />
     </task>
     <servers />
   </component>
@@ -55,10 +104,11 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/ra/model/CartItem.java</url>
+          <line>7</line>
+          <properties field="totalAmount" class="ra.model.CartItem" />
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
